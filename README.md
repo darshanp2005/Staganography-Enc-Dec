@@ -28,5 +28,5 @@ MATLAB toolbox for hiding text inside images and retrieving hidden payloads usin
 
 ## Roadmap
 
-[text](flow.pdf)
+[Diagram](flow.pdf)
 
